@@ -23,3 +23,9 @@ Institución: Santa Catalina Laboure
 ```
 Docente: Jossue Emmanuel Fuentes
 ```
+<h2>📚Índice📚</h2>
+<h3>1. Portada &#9763;&#65039;</h3>
+<h3>2. Anteportada &#9762;&#65039;</h3>
+<h3>3. Índice &#9874;&#65039;</h3>
+<h3>4. Glosario de etiquetas  &#9876;&#65039;</h3>
+<p> El glosario de etiquetas se divide por 2 partes las cuales son la home-page y el glosario de todas las etiquetas</p>

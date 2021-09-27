@@ -39,8 +39,10 @@ Docente: Jossue Emmanuel Fuentes
 
 <h2>&#127776; Objetivos futuros &#127776;</h2>
 
-* Seguir mejorando en mi forma de programar para realizar mejores trabajos con mayor eficiencia de tiempo y menor cantidad de código.⌨
+* Poder sacar en limpio el año en las asignaciones que se relacionan con computación para poder saber y usar ese tiempo extra como en la mejora personal en seguir estudiando la programación en su lenguaje mas puro.
 
 * En un futuro cercano poder tener la oportunidad de programar paginas con lo que aprendi en este tiempo para poder demostrar lo que aprendi a mi manera.📲
 
 * Poder ver en corto plazo donde poder aplicar lo que uno aprende con esta carrera o ver que trabajos pueden aplicar este estilo de paginas para facilitar el desempeño de negocios diferentes.👓
+
+<h2> &#9728;&#65039;Proyecto: &#9732;&#65039;</h2> &#9749; https://amontanico11.github.io/Portafolio_III-P./

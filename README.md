@@ -23,9 +23,9 @@ Institución: Santa Catalina Laboure
 ```
 Docente: Jossue Emmanuel Fuentes
 ```
-<h2>&#127759; Índice&#127769;</h2>
-<h3>1. Portada &#9763;&#65039;</h3>
-<h3>2. Anteportada &#9762;&#65039;</h3>
-<h3>3. Índice &#9874;&#65039;</h3>
-<h3>4. Glosario de etiquetas  &#9876;&#65039;</h3>
-<p> El glosario de etiquetas se divide por 2 partes las cuales son la home-page y el glosario de todas las etiquetas</p>
+<h2>&#127759; Índice&#127762;</h2>
+<h3>1. Portada &#127763;</h3>
+<h3>2. Anteportada &#127764;</h3>
+<h3>3. Índice &#127765;</h3>
+<h3>4. Proyecto School ERP  &#127766;</h3>
+

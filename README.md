@@ -29,7 +29,7 @@ Docente: Jossue Emmanuel Fuentes
 <h3>3. Índice &#127765;</h3>
 <h3>4. Proyecto School ERP  &#127766;</h3>
 
-<h2>🛩Objetivos 🛩</h2>
+<h2>&#127775;Objetivos &#127775;</h2>
 
 * Poder lograr a entender mucho mejor los lenguajes de programación que tenemos para poder hacer mejores trabajos hasta sobresalir en las mismas materias.📘
 

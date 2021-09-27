@@ -45,4 +45,4 @@ Docente: Jossue Emmanuel Fuentes
 
 * Poder ver en corto plazo donde poder aplicar lo que uno aprende con esta carrera o ver que trabajos pueden aplicar este estilo de paginas para facilitar el desempeño de negocios diferentes.👓
 
-<h2> &#9728;&#65039;Proyecto: &#9732;&#65039;</h2> &#9749; https://amontanico11.github.io/Portafolio_III-P./
+<h2> &#9728;&#65039;Proyecto School ERP: &#9732;&#65039;</h2> &#9749; https://amontanico11.github.io/Portafolio_III-P./

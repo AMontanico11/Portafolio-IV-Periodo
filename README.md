@@ -46,8 +46,8 @@ Docente: Jossue Emmanuel Fuentes
 
 <h2> &#9728;&#65039;Proyecto School ERP: &#9732;&#65039;</h2> &#9749; 
 
-* Index: https://amontanico11.github.io/Base1.2/
-* Login: https://amontanico11.github.io/Login2.0/
-* LoginV2: https://amontanico11.github.io/LoginV2.0/
-* 03_Pantalla: https://amontanico11.github.io/03_Pantalla/
-* 04_Profile: https://amontanico11.github.io/04_Profile/
+* Index: https://amontanico11.github.io/Base1.2/ &#8986;
+* Login: https://amontanico11.github.io/Login2.0/ &#8987;
+* LoginV2: https://amontanico11.github.io/LoginV2.0/ &#9000;&#65039;
+* 03_Pantalla: https://amontanico11.github.io/03_Pantalla/ &#9201;&#65039;
+* 04_Profile: https://amontanico11.github.io/04_Profile/ &#9202;&#65039;

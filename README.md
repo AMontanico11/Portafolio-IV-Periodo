@@ -2,3 +2,5 @@
 <h1>&#128640; Portafolio IV Periodo 2021 &#127776;</h1>
 
 <img width=100% height=500px src=https://i.blogs.es/4fa607/predicciones-tech/1366_2000.jpeg>
+
+<h2>&#127762; �Anteportada&#127764;�</h2>

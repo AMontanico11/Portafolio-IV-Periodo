@@ -45,3 +45,9 @@ Docente: Jossue Emmanuel Fuentes
 * Poder empezar a ver algunos trabajos de programación al paso del tiempo independientes, intentando resolver codigos diversos que pongan a prueba mi mente.
 
 <h2> &#9728;&#65039;Proyecto School ERP: &#9732;&#65039;</h2> &#9749; 
+
+* Index: https://amontanico11.github.io/Base1.2/
+* Login: https://amontanico11.github.io/Login2.0/
+* LoginV2: https://amontanico11.github.io/LoginV2.0/
+* 03_Pantalla: https://amontanico11.github.io/03_Pantalla/
+* 04_Profile: https://amontanico11.github.io/04_Profile/

@@ -31,18 +31,17 @@ Docente: Jossue Emmanuel Fuentes
 
 <h2>&#127775;Objetivos &#127775;</h2>
 
-* Poder lograr a entender mucho mejor los lenguajes de programación que tenemos para poder hacer mejores trabajos hasta sobresalir en las mismas materias.📘
+* Poder ganar todas las materias relacionadas con la computación para poder obtener un resultado excelente en las notas este ultimo periodo.
 
-* Poder tener el habito de educarme con ejercicios extra estando despues de las clases para lograr dominar puntos intermedios pero que me serviran en estas clases.⏰
+* Poder alcanzar la campacidad de entender todos los idiomas de programación bien para poder seguir creciendo y aprendiendo para mi mismo.
 
-* Poder estudiar mejor y lograr a participar mas en las clases o con mis compañeros para poder seguir avanzando en cantidades grandes.🎙
-
+* Poder sacar adelante los proyectos de este periodo aprendiendo todo lo que pase en tema en tema para tener experiencia al momento de algun problema o situación similar.
 <h2>&#127776; Objetivos futuros &#127776;</h2>
 
 * Poder sacar en limpio el año en las asignaciones que se relacionan con computación para poder saber y usar ese tiempo extra como en la mejora personal en seguir estudiando la programación en su lenguaje mas puro.
 
-* En un futuro cercano poder tener la oportunidad de programar paginas con lo que aprendi en este tiempo para poder demostrar lo que aprendi a mi manera.📲
+* En un futuro no tan lejano poder sacar una aplicación, pero aprendiendo al paso del tiempo sobre la misma.
 
-* Poder ver en corto plazo donde poder aplicar lo que uno aprende con esta carrera o ver que trabajos pueden aplicar este estilo de paginas para facilitar el desempeño de negocios diferentes.👓
+* Poder empezar a ver algunos trabajos de programación al paso del tiempo independientes, intentando resolver codigos diversos que pongan a prueba mi mente.
 
-<h2> &#9728;&#65039;Proyecto School ERP: &#9732;&#65039;</h2> &#9749; https://amontanico11.github.io/Portafolio_III-P./
+<h2> &#9728;&#65039;Proyecto School ERP: &#9732;&#65039;</h2> &#9749; 

@@ -29,3 +29,18 @@ Docente: Jossue Emmanuel Fuentes
 <h3>3. Índice &#127765;</h3>
 <h3>4. Proyecto School ERP  &#127766;</h3>
 
+<h2>🛩Objetivos 🛩</h2>
+
+* Poder lograr a entender mucho mejor los lenguajes de programación que tenemos para poder hacer mejores trabajos hasta sobresalir en las mismas materias.📘
+
+* Poder tener el habito de educarme con ejercicios extra estando despues de las clases para lograr dominar puntos intermedios pero que me serviran en estas clases.⏰
+
+* Poder estudiar mejor y lograr a participar mas en las clases o con mis compañeros para poder seguir avanzando en cantidades grandes.🎙
+
+<h2>🚀Objetivos futuros 🚀</h2>
+
+* Seguir mejorando en mi forma de programar para realizar mejores trabajos con mayor eficiencia de tiempo y menor cantidad de código.⌨
+
+* En un futuro cercano poder tener la oportunidad de programar paginas con lo que aprendi en este tiempo para poder demostrar lo que aprendi a mi manera.📲
+
+* Poder ver en corto plazo donde poder aplicar lo que uno aprende con esta carrera o ver que trabajos pueden aplicar este estilo de paginas para facilitar el desempeño de negocios diferentes.👓

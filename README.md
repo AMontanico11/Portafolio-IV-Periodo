@@ -37,7 +37,7 @@ Docente: Jossue Emmanuel Fuentes
 
 * Poder estudiar mejor y lograr a participar mas en las clases o con mis compañeros para poder seguir avanzando en cantidades grandes.🎙
 
-<h2>🚀Objetivos futuros 🚀</h2>
+<h2>&#127776; Objetivos futuros &#127776;</h2>
 
 * Seguir mejorando en mi forma de programar para realizar mejores trabajos con mayor eficiencia de tiempo y menor cantidad de código.⌨
 

@@ -23,7 +23,7 @@ Institución: Santa Catalina Laboure
 ```
 Docente: Jossue Emmanuel Fuentes
 ```
-<h2>📚Índice📚</h2>
+<h2>&#127759; Índice&#127769;</h2>
 <h3>1. Portada &#9763;&#65039;</h3>
 <h3>2. Anteportada &#9762;&#65039;</h3>
 <h3>3. Índice &#9874;&#65039;</h3>

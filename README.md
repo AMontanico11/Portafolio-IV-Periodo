@@ -15,7 +15,7 @@ Materia: Laboratorio 1
 ```
 Grado/ carrera: 4to bachillerato en computación
 ```
-   <img align=”center” width=1000px height=100% src=https://i2.wp.com/hipertextual.com/wp-content/uploads/2015/02/elegir-lenguaje-de-programacion.jpg?fit=1200%2C750&ssl=1>
+<img align=”center” width=1000px height=100% src=https://formacionconecta.com.ar/wp-content/uploads/2019/12/lenguaje-programacion.jpg>
 
 ```
 Institución: Santa Catalina Laboure  

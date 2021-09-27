@@ -15,7 +15,7 @@ Materia: Laboratorio 1
 ```
 Grado/ carrera: 4to bachillerato en computación
 ```
-   <img align=”center” width=1000px height=100% src=https://c4.wallpaperflare.com/wallpaper/162/894/557/neon-keyboards-computer-pc-gaming-wallpaper-preview.jpg>
+   <img align=”center” width=1000px height=100% src=https://i2.wp.com/hipertextual.com/wp-content/uploads/2015/02/elegir-lenguaje-de-programacion.jpg?fit=1200%2C750&ssl=1>
 
 ```
 Institución: Santa Catalina Laboure  

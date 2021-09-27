@@ -3,4 +3,23 @@
 
 <img width=100% height=500px src=https://i.blogs.es/4fa607/predicciones-tech/1366_2000.jpeg>
 
-<h2>&#127762; �Anteportada&#127764;�</h2>
+<h2>&#127762; Anteportada &#127764; </h2>
+
+```
+Nombre: Alexis Fabian Pirir Montanico
+```
+
+```
+Materia: Laboratorio 1
+```
+```
+Grado/ carrera: 4to bachillerato en computación
+```
+   <img align=”center” width=1000px height=100% src=https://c4.wallpaperflare.com/wallpaper/162/894/557/neon-keyboards-computer-pc-gaming-wallpaper-preview.jpg>
+
+```
+Institución: Santa Catalina Laboure  
+```
+```
+Docente: Jossue Emmanuel Fuentes
+```

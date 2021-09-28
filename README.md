@@ -28,6 +28,7 @@ Docente: Jossue Emmanuel Fuentes
 <h3>2. Anteportada &#127764;</h3>
 <h3>3. Índice &#127765;</h3>
 <h3>4. Proyecto School ERP  &#127766;</h3>
+
 * Index: https://amontanico11.github.io/Base1.2/ &#8986;
 * Login: https://amontanico11.github.io/Login2.0/ &#8987;
 * LoginV2: https://amontanico11.github.io/LoginV2.0/ &#9000;&#65039;

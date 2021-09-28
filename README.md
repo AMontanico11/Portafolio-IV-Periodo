@@ -35,7 +35,8 @@ Docente: Jossue Emmanuel Fuentes
 * 03_Pantalla: https://amontanico11.github.io/03_Pantalla/ &#9201;&#65039;
 * 04_Profile: https://amontanico11.github.io/04_Profile/ &#9202;&#65039;
 
-<h3>5. Objetivos &#127766;</h3>
+<h3>5. Objetivos &#127767;</h3>
+<h3>5. Objetivos futuros &#127769;</h3>
 
 
 <h2>&#127775;Objetivos &#127775;</h2>
